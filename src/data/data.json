@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "titulo": "Arroz diana 12500g",
+        "descripcion": "Arroz blanco para la canasta familiar",
+        "categoria": "granos",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21030006/Arroz-Blanco-Arroba-12500-gr-256676_a.jpg?v=638410372337570000",
+        "precio": 53300,
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "titulo": "Arroz diana 10000g",
+        "descripcion": "Arroz blanco para la canasta familiar",
+        "categoria": "granos",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21412638/Arroz-Diana-10-Kilos-X-1000-gr-490777_a.jpg?v=638427351940370000",
+        "precio": 47900,
+        "stock": 100
+    },
+    {
+        "id": 3,
+        "titulo": "Arroz diana 5000g",
+        "descripcion": "Arroz blanco para la canasta familiar",
+        "categoria": "granos",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21412653/Arroz-Diana-5000-gr-814670_a.jpg?v=638427351953670000",
+        "precio": 23950,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "titulo": "Arroz diana 3000g",
+        "descripcion": "Arroz blanco para la canasta familiar",
+        "categoria": "granos",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21412654/Arroz-Blanco-Bolsa-X-3000g-130407_a.jpg?v=638427351966970000",
+        "precio": 15550,
+        "stock": 100
+    }
+    ,
+    {
+        "id": 5,
+        "titulo": "Arroz diana 1000g",
+        "descripcion": "Arroz blanco para la canasta familiar",
+        "categoria": "granos",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21412734/Arroz-Diana-1000-gr-552155_a.jpg?v=638427352316300000",
+        "precio": 4600,
+        "stock": 100
+    },
+    {
+        "id": 6,
+        "titulo": "Arroz diana 500g",
+        "descripcion": "Arroz blanco para la canasta familiar",
+        "categoria": "granos",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21412653/Arroz-Diana-5000-gr-814670_a.jpg?v=638427351953670000",
+        "precio": 2150,
+        "stock": 100
+    },
+    {
+        "id": 7,
+        "titulo": "Aceite diana 3000 ml",
+        "descripcion": "Aceite con vitaminas",
+        "categoria": "aceites",
+        "imagen": "https://www.exito.com/_next/image?url=https%3A%2F%2Fexitocol.vtexassets.com%2Farquivos%2Fids%2F13175751%2FAceite-Diana-Vitaminas-X3000ml-1278720_a.jpg%3Fundefined%26width%3D150%26height%3D150%26aspect%3Dtrue%3Fv%3D637899519415570000&w=256&q=75",
+        "precio": 32400,
+        "stock": 100
+    }
+    ,
+    {
+        "id": 8,
+        "titulo": "Aceite diana 2000 ml",
+        "descripcion": "Aceite con vitaminas",
+        "categoria": "aceites",
+        "imagen": "https://mercaldas.vtexassets.com/arquivos/ids/1289734-1200-auto?v=637949630936200000&width=1200&height=auto&aspect=true",
+        "precio": 19300,
+        "stock": 100
+    },
+    {
+        "id": 9,
+        "titulo": "Aceite diana 900 ml",
+        "descripcion": "Aceite con vitaminas",
+        "categoria": "aceites",
+        "imagen": "https://exitocol.vtexassets.com/arquivos/ids/13178971/Aceite-diana-x-900-ml-1309700_a.jpg?v=637899867241730000",
+        "precio": 10500,
+        "stock": 100
+    }
+    
+]
